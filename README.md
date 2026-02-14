@@ -37,16 +37,20 @@ AWS-EC2-DOCKER-DEPLOYMENT-HINA-ATIF/
 ### Screenshots
 
 **EC2 Dashboard**  
-![EC2 Dashboard](screenshots/ec2_dashboard.png)
+<img width="884" height="92" alt="image" src="https://github.com/user-attachments/assets/0f298700-bc24-4e34-a996-1b90272be268" />
+
 
 **Docker Build**  
-![Docker Build](screenshots/docker_terminal.png)
+<img width="1566" height="518" alt="image" src="https://github.com/user-attachments/assets/16c884a8-69af-4055-9bf6-8e2d911e7e97" />
+
+**Docker Ps**
+<img width="1600" height="218" alt="image" src="https://github.com/user-attachments/assets/f0d642d5-1c50-427c-8ab6-1d91f5c43169" />
+
 
 **Website Preview**  
-![Website Preview](screenshots/website_preview.png)
+<img width="1424" height="447" alt="image" src="https://github.com/user-attachments/assets/84b8cb51-df4a-46ed-b178-74e12b5dad0c" />
 
-**Architecture Diagram**  
-![Architecture Diagram](screenshots/architecture_diagram.png)
+
 
 ---
 
