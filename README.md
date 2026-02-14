@@ -34,20 +34,19 @@ AWS-EC2-DOCKER-DEPLOYMENT-HINA-ATIF/
 
 ---
 
-## 🔹 Screenshots
+### Screenshots
 
-### EC2 Dashboard
-![EC2](screenshots/ec2_dashboard.png)
+**EC2 Dashboard**  
+![EC2 Dashboard](screenshots/ec2_dashboard.png)
 
-### Docker Terminal
-![Docker](screenshots/docker_terminal.png)
+**Docker Build**  
+![Docker Build](screenshots/docker_terminal.png)
 
-### Website Preview
-![Website](screenshots/website_preview.png)
+**Website Preview**  
+![Website Preview](screenshots/website_preview.png)
 
-### Architecture Diagram
-![Architecture](screenshots/architecture_diagram.png)
-
+**Architecture Diagram**  
+![Architecture Diagram](screenshots/architecture_diagram.png)
 
 ---
 
